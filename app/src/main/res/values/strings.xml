@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BatteryWidget</string>
+    <string name="app_name">Battery Widget</string>
+    <string name="charge">--%</string>
+    <string name="battery_icon">battery icon</string>
 </resources>
