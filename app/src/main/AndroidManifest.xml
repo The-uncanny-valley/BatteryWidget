@@ -11,8 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BatteryWidget">
-        <receiver android:name=".presentation.BatteryWidget"
-            android:exported="true">
+        <receiver
+            android:name=".presentation.BatteryWidget"
+            android:description="@string/battery_widget_description"
+            android:exported="true"
+            android:label="@string/battery_widget_name">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
                 <action android:name="android.intent.action.BATTERY_CHANGED" />

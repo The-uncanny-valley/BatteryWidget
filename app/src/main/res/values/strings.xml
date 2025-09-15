@@ -2,4 +2,6 @@
     <string name="app_name">Battery Widget</string>
     <string name="charge">--%</string>
     <string name="battery_icon">battery icon</string>
+    <string name="battery_widget_name">Battery Level</string>
+    <string name="battery_widget_description">Shows your current battery level and charging status.</string>
 </resources>
