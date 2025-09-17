@@ -12,13 +12,14 @@
         android:id="@+id/batteryIcon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_battery_0"
-        android:contentDescription="@string/battery_icon" />
+        android:contentDescription="@string/battery_icon"
+        android:src="@drawable/ic_battery_0" />
 
     <TextView
         android:id="@+id/batteryText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:fontFamily="@font/dangrek_regular"
         android:text="@string/charge"
         android:textColor="@color/on_background"
