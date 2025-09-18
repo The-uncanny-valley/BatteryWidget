@@ -12,6 +12,11 @@ The app itself is invisible — there is no launcher icon or visible interface. 
 * **Accessibility first** – designed for people who don’t see well.
 * Built with **XML layouts** and **Kotlin** for simplicity and performance.
 
+## ⚠️ Important Note
+
+Due to Android system restrictions to preserve battery life, the widget will update automatically approximately every **30 minutes** when the device is idle.
+You can always **tap the widget** to force an immediate manual update and see the current battery level.
+
 ## How to Use
 
 1. Go to the project repository: [BatteryWidget on GitHub](https://github.com/The-uncanny-valley/BatteryWidget).
