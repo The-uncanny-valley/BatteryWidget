@@ -12,7 +12,7 @@ The app itself is invisible — there is no launcher icon or visible interface. 
 * **Accessibility first** – designed for people who don’t see well.
 * Built with **XML layouts** and **Kotlin** for simplicity and performance.
 
-## How to Us
+## How to Use
 
 1. Go to the project repository: [BatteryWidget on GitHub](https://github.com/The-uncanny-valley/BatteryWidget).
 2. Download and install the latest APK from the **Releases** section (or build it yourself from source).
