@@ -28,6 +28,8 @@ The app itself is invisible — there is no launcher icon or visible interface. 
 
 ## Screenshots
 
+<img src="Media/Screenshot.jpeg" alt="Home Screen" width="320"/>
+
 ## License
 
 This project is licensed under the MIT License.
